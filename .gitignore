@@ -1,0 +1,32 @@
+# Keil MDK-ARM
+Objects/
+Listings/
+*.uvguix.*
+*.build_log.htm
+*.log
+*.bak
+*.dep
+*.lnp
+*.iex
+*.crf
+*.d
+*.o
+*.axf
+*.sct
+*.map
+
+# CubeMX backup
+*.mxproject
+Backup/
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.*.swp
+.vscode/
+.idea/
+
+# 临时 / 打包产物
+*.tmp
