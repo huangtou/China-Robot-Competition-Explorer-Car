@@ -4,6 +4,12 @@
 >
 > 包含：STM32 固件（HAL 库 + Keil 工程）、视觉模型与部署脚本、机械结构（SolidWorks）、PCB（立创 EDA）。
 
+<p align="center">
+  <img src="docs/images/robot-real.jpg" alt="整车实物" width="60%">
+  <br>
+  <em>整车实物</em>
+</p>
+
 | 机械结构（3D 预览） | 主控 PCB（3D 预览） |
 | :---: | :---: |
 | ![机械结构](docs/images/robot-structure.png) | ![主控 PCB](docs/images/pcb-3d.png) |
@@ -52,7 +58,7 @@
 ├── 结构/                      # SolidWorks 零件与装配体（.SLDPRT/.SLDASM/STL）
 ├── PCB/
 │   └── PCB.eprj2             # 立创 EDA 专业版工程
-├── docs/images/              # README 用预览图（机械结构、PCB 3D 渲染）
+├── docs/images/              # README 用预览图（整车实物、机械结构、PCB 3D 渲染）
 └── README.md
 ```
 
