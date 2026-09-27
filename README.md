@@ -159,8 +159,6 @@
 - `Drivers/` 下 STM32 HAL / CMSIS 遵循 ST 官方许可；
 - `Camera/` 下模型与脚本由 MaixHub 生成，遵循 Sipeed / MaixHub 相关条款。
 
-> 提示：若需正式开源，请在仓库根目录补充 `LICENSE` 文件与 `.gitignore`（忽略 `MDK-ARM/Objects`、`Listings`、`*.uvguix.*` 等），并删除 `*.uvguix.*` 中的个人用户信息。
-
 ## 十一、致谢
 
 - STMicroelectronics：STM32CubeMX / HAL 库
