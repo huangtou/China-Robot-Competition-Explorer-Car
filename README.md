@@ -152,12 +152,6 @@
 
 - **V1 完整流程演示**：<https://www.bilibili.com/video/BV1UiGg6rEV1/> ｜ BV 号 `BV1UiGg6rEV1`
 
-> GitHub / Gitee 会过滤 `<iframe>` 标签，仓库内统一使用上面的链接形式。若要在支持内嵌的站点（自建博客、语雀等）展示，可用 B 站提供的嵌入代码：
->
-> ```html
-> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117019370329649&bvid=BV1UiGg6rEV1&cid=40498958082&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-> ```
-
 ## 十、开源协议
 
 本项目采用 **MIT License**。第三方组件遵循各自许可证：
